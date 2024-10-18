@@ -1,0 +1,10 @@
+必须依赖
+Tanbolt\Mime\Magic
+
+可选依赖: 若要使用该对象的 完整功能，需要
+Tanbolt\Cookie\CookieInterface
+Tanbolt\Session\SessionInterface
+Tanbolt\Filesystem\FilesystemInterface
+
+
+
